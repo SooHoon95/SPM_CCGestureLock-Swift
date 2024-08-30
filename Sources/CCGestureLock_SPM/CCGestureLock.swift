@@ -7,7 +7,6 @@
 
 import UIKit
 
-
 public extension UIControlEvents {
     static var gestureBegan: UIControlEvents { return UIControlEvents(rawValue: 0b0001 << 23) }
     static var gestureComplete: UIControlEvents { return UIControlEvents(rawValue: 0b0001 << 24) }

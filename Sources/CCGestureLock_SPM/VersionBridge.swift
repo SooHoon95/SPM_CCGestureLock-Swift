@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import UIKit
 
 #if swift(>=4.2)
 public typealias UICollectionViewScrollPosition = UICollectionView.ScrollPosition
