@@ -24,13 +24,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 N/A
 
 ## Installation
-
-CCGestureLock is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod "CCGestureLock"
-```
+Use SPM with this repository Link
 
 ## Usage
 ### Adding Gesture Lock
